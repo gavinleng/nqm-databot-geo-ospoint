@@ -1,0 +1,12 @@
+{
+  "name": "nqm-databot-geo-ospoint",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "csvtojson": "^1.0.2",
+    "ospoint": "~0.2.0"
+  }
+}
